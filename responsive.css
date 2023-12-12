@@ -1,0 +1,36 @@
+@media screen and (max-width: 490px) { 
+    .message { 
+      display: none; 
+    } 
+    .logosec { 
+      width: 100%; 
+      justify-content: space-between; 
+    } 
+    .logo { 
+      font-size: 20px; 
+    } 
+    .menuicn { 
+      height: 25px; 
+    } 
+    .nav-img { 
+      height: 25px; 
+    } 
+    .nav-option { 
+      gap: 25px; 
+    } 
+    .nav-option h3 { 
+      font-size: 12px; 
+    } 
+    .nav-upper-options { 
+      gap: 15px; 
+    } 
+    .recent-Articles { 
+      font-size: 20px; 
+    } 
+    .report-topic-heading, 
+    .item1, 
+    .items { 
+      width: 550px; 
+    } 
+  } 
+    
